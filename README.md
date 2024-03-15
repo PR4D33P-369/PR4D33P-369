@@ -2,8 +2,8 @@
 - I'm interested in Cybersecurity, CP, DP, and as AI being revolutionary, I love to wander about it.
 - Current Scenario: DSA using Python and Java
 - How can you reach me:
--   mail: pradeep98677@proton.me
--   insta: @pra_deep__369
+    mail: pradeep98677@proton.me
+    insta: @pra_deep__369
 
 
 <!---
