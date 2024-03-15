@@ -1,4 +1,4 @@
-- Hi, I am Pradeep Pandey, 20 Y0 youmg male
+- Hi, I am Pradeep Pandey, 20 y.o lad. 
 - I'm interested in Cybersecurity, CP, DP, and as AI being revolutionary, I love to wander about it.
 - Current Scenario: DSA using Python and Java
 - How can you reach me:
